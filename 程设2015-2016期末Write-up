@@ -1,0 +1,11 @@
+##Section1
+#1.identifiers——标识符
+  标识符只能是字母(A～Z，a～z)、数字(0～9)、下划线_组成的字符串，并且其第一个字符必须是字母或下划线
+  不能与c编译系统已经预定义的、具有特殊用途的保留标识符（即关键字）同名
+  比如，不能将标识符命名为**float,auto,break,case,this,try,for,while,int,char,short, unsigned,FILE**等等
+  
+  ```例子
+  在本题中
+  A.`viod`明显是`void`的错误拼法  B.FILE  C.while D.a$的符号不符合要求
+  
+#4.
